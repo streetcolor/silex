@@ -1,0 +1,5 @@
+var/cache/*
+var/logs/*
+web/var/cache/*
+web/var/logs/*
+vendor/*
